@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "quadprogXT"]
+	path = quadprogXT
+	url = https://github.com/rharlow86/quadprogxt
+	shallow = true
+	registered = true
